@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: gform-filler
+  main:
+    web-application-type: none
+
+logging:
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} %-5level [%thread] %logger{36} - %msg%n"
+
