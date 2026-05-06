@@ -1,0 +1,23 @@
+02:12:02.615 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [ro.bogdanm.tools.MainTest]: MainTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+02:12:02.695 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration ro.bogdanm.tools.Main for test class ro.bogdanm.tools.MainTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.5)
+
+2026-05-06 02:12:03 INFO  [main] ro.bogdanm.tools.MainTest - Starting MainTest using Java 25.0.1 with PID 8536 (started by bmlad in C:\Work\ide-projects\java\gform-filler)
+2026-05-06 02:12:03 INFO  [main] ro.bogdanm.tools.MainTest - No active profile set, falling back to 1 default profile: "default"
+2026-05-06 02:12:03 INFO  [main] r.b.t.config.RuntimeConfiguration - Using form filler config C:\Work\ide-projects\java\gform-filler\config\formfiller.properties
+2026-05-06 02:12:03 INFO  [main] r.b.tools.service.FormFillerRunner - Form filler autostart is disabled
+2026-05-06 02:12:03 INFO  [main] ro.bogdanm.tools.MainTest - Started MainTest in 0.683 seconds (process running for 1.54)
+Mockito is currently self-attaching to enable the inline-mock-maker. This will no longer work in future releases of the JDK. Please add Mockito as an agent to your build what is described in Mockito's documentation: https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html#0.3
+Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+WARNING: A Java agent has been loaded dynamically (C:\Users\bmlad\.m2\repository\net\bytebuddy\byte-buddy-agent\1.15.11\byte-buddy-agent-1.15.11.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release

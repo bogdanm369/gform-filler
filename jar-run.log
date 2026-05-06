@@ -1,0 +1,16 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.5)
+
+2026-05-06 02:11:38 INFO  [main] ro.bogdanm.tools.Main - Starting Main v1.0.0-SNAPSHOT using Java 25.0.1 with PID 19660 (C:\Work\ide-projects\java\gform-filler\target\gform-filler-1.0.0-SNAPSHOT.jar started by bmlad in C:\Work\ide-projects\java\gform-filler)
+2026-05-06 02:11:38 INFO  [main] ro.bogdanm.tools.Main - No active profile set, falling back to 1 default profile: "default"
+2026-05-06 02:11:38 INFO  [main] r.b.t.config.RuntimeConfiguration - Using form filler config C:\Work\ide-projects\java\gform-filler\config\formfiller.properties
+2026-05-06 02:11:39 INFO  [main] r.b.tools.service.FormFillerRunner - Form filler autostart is disabled
+2026-05-06 02:11:39 INFO  [main] ro.bogdanm.tools.Main - Started Main in 0.866 seconds (process running for 1.139)
+2026-05-06 02:11:39 INFO  [SpringApplicationShutdownHook] r.b.tools.service.FormFillerRunner - Stopping 0 worker(s)
