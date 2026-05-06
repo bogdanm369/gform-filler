@@ -1,7 +1,7 @@
 # gform-filler
 
-Continuous Google Form filler for one or more configured forms, now packaged as a Spring Boot console application.
-( I needed it for school homework )
+- Continuous Google Form filler for one or more configured forms, now packaged as a Spring Boot console application.
+<br>( I needed it for completing school homework in a timely manner )
 
 ## Project layout
 
